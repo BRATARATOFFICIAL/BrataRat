@@ -31,19 +31,22 @@ Control android screen at a very faster speed
 # Format Phone 
  Completely erase phone with one click 
  
+ # Phone Call
+ Record, Change voice, or make a call
+ 
 # Messages and Contacts 
  Access clients messages and contacts 
  
 # File Manager 
  Download, upload, zip/unzip, and many more
  
-#CRY-MODE 
+# CRY-MODE 
  Mass Ransomware 
  
-#Screen Phisher 
+# Screen Phisher 
  Show fake bank login page for several banks worldwide 
  
-#Ghost-MODE 
+# Ghost-MODE 
  Turn screen-off and control phone secretly 
 
 
