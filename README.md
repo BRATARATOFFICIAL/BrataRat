@@ -34,6 +34,9 @@ Control android screen at a very faster speed
  # Phone Call
  Record, Change voice, or make a call
  
+ # Bypass Black Screen
+ Ability to bypass bank app security features
+ 
 # Messages and Contacts 
  Access clients messages and contacts 
  
