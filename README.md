@@ -3,54 +3,14 @@ BRATA RAT  - Advanced Android Remote Tool since 2018 - 2022
 
 ![Untitled](https://i.imgur.com/OiUOU2n.jpg)
 
-Brazilian Rat ( Brata )
+Brazilian Rat ( Brata Rat )
 
 
 ![33](https://i.imgur.com/1rjXlPY.jpg)
 
 
-This is a fully equiped android remote administration tool developed by an unidentified programmer ( a member of a secret cyber-activist criminals ).
-
-To Ensure Maximum Privacy of this tool, No images are allowed within this forum.
-
-Under Advanced Cyber-tasking, Prices are raised up to ensure reduction in buyers amassed with kids
-
-With the aid of the Deep-Web and defaming tools, we have also managed to keep our onions out of google search results.
-
-**FEATURES OF BRATA RAT**
-
-# Anti-Delete 
- Disallow client from uninstalling apk from phone
- 
-# Fastest Screen Control 
-Control android screen at a very faster speed
-
-# Screen Blocker 
- Disable touch for client so you can control android smoothly
- 
-# Format Phone 
- Completely erase phone with one click 
- 
- # Phone Call
- Record, Change voice, or make a call
- 
- # Bypass Black Screen
- Ability to bypass bank app security features
- 
-# Messages and Contacts 
- Access clients messages and contacts 
- 
-# File Manager 
- Download, upload, zip/unzip, and many more
- 
-# CRY-MODE 
- Mass Ransomware 
- 
-# Screen Phisher 
- Show fake bank login page for several banks worldwide 
- 
-# Ghost-MODE 
- Turn screen-off and control phone secretly 
+Brata Rat is an android device controlling softare, whilst its Botnet supports ios (15.4.1 and below) and android (android 13))
+Fully Undetectable and Persistent.
 
 
 ![33](https://i.imgur.com/7XtV8zl.jpg)
@@ -58,21 +18,74 @@ Control android screen at a very faster speed
 
 ![33](https://i.imgur.com/9pWV0KP.jpg)
 
+### Features
+
+**Available For Rat**
+
+- [x] Anti-Delete 
+- [x] Screen Control 
+- [x] Format Phone 
+- [x] Phone Call
+- [x] Message Toaster
+- [x] File Manager 
+- [x] Screen Phisher 
+- [x] Dump System Info
+- [x] Dump Location
+- [x] Live Webcam Stream
+- [x] Dump Messages
+- [x] Change Audio Mode
+- [x] Dump Call Logs
+- [x] Dump Local Time
+- [x] Microphone Recording
+- [x] Unistall App
+- [x] List Installed Apps
+- [x] Send Message
+- [x] Dump Contacts
+- [x] Lock/Unlock Screen
+- [x] Run Shell Command
+- [x] Webcam Snap
+- [x] Open App
+- [x] Install App
+- [x] Device Info
+- [x] Hide/Show payload app icon 
 
 
 
+```
+https://t.me/nocrimer
+```
+[TELEGRAM CONTACT](https://t.me/nocrimer) 
 
---------------
+<!-- PRIVATE VERSION -->
+## Private Version
 
 
+**Features**
 
-[DOWNLOAD](https://t.me/BRATARATOFFICIAL)
+- [x] Fastest Screen Control
+- [x] Control From Web Browser
+- [x] Android Clipper ( BTC & USDT only )
+- [x] Files
+- [x] Messsages & Contacts
+- [x] Call Forwarder
+- [x] OTP Stealer ( Sends To Panel & Delete )
+- [x] Satisfying Panel
+- [x] Anti  Delete
+- [x] Automatic Rooting ( up to android 11 only )
+- [x] Send SMS
+- [x] Lock Screen ( Screen On But cannot Touch )
+- [x] Ransomware
+- [x] Freeze Phone
+- [x] Vibrata Device
+- [x] Change Wallpaper
+- [x] Turn on/off ( torch, bluetooth, location, volume, etc )
+Many More
 
 
-.
-
-.
-
+```
+https://t.me/nocrimer
+```
+[TELEGRAM CONTACT](https://t.me/nocrimer) 
 .
 
 .
@@ -89,7 +102,4 @@ Control android screen at a very faster speed
 
 This project is licensed to BRATARATOFFICIAL@GMAIL.COM
 
-
-#bratarat #brataratdownload BRATA RAT DOWNLOAD 
-#brata_rat, #brata_rat_v3, #brata_Rat_by_evlf, brata rat v3, brata rat, brata rat 2022, Android rat v3 2022, brata rat full version, brata rat rootkit, bratarat, android rat, rat android, android vnc, android remote, android control, android monitor, mspy, spynote, spymax, mobihok, brata rat  , brata rat screen control , brata rat monitor , ermac rat v3.5 , ermac rat
-#ermac, ermac rat cracked #brataratcracked
+#BRATA #BRATARAT #BRATAMALWARE #BRATASPYWARE #BRAZILLIANRAT #BRAZIL
